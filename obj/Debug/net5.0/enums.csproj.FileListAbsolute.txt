@@ -1,0 +1,16 @@
+D:\patika\practises\enums\bin\Debug\net5.0\enums.exe
+D:\patika\practises\enums\bin\Debug\net5.0\enums.deps.json
+D:\patika\practises\enums\bin\Debug\net5.0\enums.runtimeconfig.json
+D:\patika\practises\enums\bin\Debug\net5.0\enums.runtimeconfig.dev.json
+D:\patika\practises\enums\bin\Debug\net5.0\enums.dll
+D:\patika\practises\enums\bin\Debug\net5.0\ref\enums.dll
+D:\patika\practises\enums\bin\Debug\net5.0\enums.pdb
+D:\patika\practises\enums\obj\Debug\net5.0\enums.csproj.AssemblyReference.cache
+D:\patika\practises\enums\obj\Debug\net5.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika\practises\enums\obj\Debug\net5.0\enums.AssemblyInfoInputs.cache
+D:\patika\practises\enums\obj\Debug\net5.0\enums.AssemblyInfo.cs
+D:\patika\practises\enums\obj\Debug\net5.0\enums.csproj.CoreCompileInputs.cache
+D:\patika\practises\enums\obj\Debug\net5.0\enums.dll
+D:\patika\practises\enums\obj\Debug\net5.0\ref\enums.dll
+D:\patika\practises\enums\obj\Debug\net5.0\enums.pdb
+D:\patika\practises\enums\obj\Debug\net5.0\enums.genruntimeconfig.cache
